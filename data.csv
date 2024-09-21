@@ -1,0 +1,5 @@
+CompanyName,FCTUnitName,PVGroupCapacity,PCSGroupCapacity,Direction,Angle,ConversionEfficiency,LossRate,Prefecture,PrimaryWxArea,Timestamp
+ちうね工業,ちうねBG,3000,1000,180,10,98,10,愛媛県,東予,"2024-09-21 07:17:56"
+ニャゴパワー,浜通りバランシンググループ,100000,8000,200,30,98,12,福島県,浜通り,"2024-09-21 07:22:01"
+ニャゴパワー,中通りバランシンググループ,200000,16000,140,30,98,15,福島県,中通り,"2024-09-21 08:22:40"
+千葉SUNパワー,南房総エリアBG,40000,30000,160,20,98,20,千葉県,南部,"2024-09-21 08:34:52"
