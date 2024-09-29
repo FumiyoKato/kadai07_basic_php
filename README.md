@@ -5,7 +5,7 @@
 - 予測対象の太陽光発電施設（または発電所群）のスペック情報を申込者が入力たデータを予測パラメータとしてcsvファイルにし、予測演算Pyhonモジュールへ渡すことを想定
 
 ## ③DEMO
-- https://fumiyokato.github.io/kadai07_basic_php/
+- https://weather-ds.sakura.ne.jp/kadai07_basic_php/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 - ID: 今回なし
